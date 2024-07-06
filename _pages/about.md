@@ -46,12 +46,15 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 [//]: </div>
 
 ### Conference Papers
+- [Overcome Modal Bias in Multi-modal Federated Learning via Balanced Modality Selection]() <br>
+**Yunfeng Fan**, Wenchao Xu, Haozhao Wang, Fushuo Huo, Jinyu Chen, and Song Guo <br>
+in The 18th European Conference on Computer Vision (**ECCV '24**), 2024. **CCF-B**
 
 - [Non-exemplar Online Class-Incremental Continual Learning via Dual-Prototype Self-Augment and Refinement](https://ojs.aaai.org/index.php/AAAI/article/view/29165) <br>
 Fushuo Huo, Wenchao Xu, Jingcai Guo, Haozhao Wang, **Yunfeng Fan** <br>
 in Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI '24**), 2024. **CCF-A**
 
-- [Pmr: Prototypical modal rebalance for multimodal learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html) <br>
+- [PMR: Prototypical modal rebalance for multimodal learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html) <br>
 **Yunfeng Fan**, Wenchao Xu, Haozhao Wang, Junxiao Wang, Song Guo <br>
 in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR '23**), 2023. **CCF-A**
 
