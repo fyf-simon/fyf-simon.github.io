@@ -45,17 +45,21 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 [//]: </div>
 [//]: </div>
 
-<div class="col-sm-2 abbr"><abbr class="badge">[AAAI'24]</abbr></div>
-                   <div id="[huo2024non]" class="col-sm-8">
-                       <div class="title">[Non-exemplar Online Class-Incremental Continual Learning via Dual-Prototype Self-Augment and Refinement]</div>
-                       <div class="author"> [Fushuo Huo, Wenchao Xu, Jingcai Guo, Haozhao Wang, **Yunfeng Fan**] </div>
-                       <div class="periodical"> <em>[Proceedings of the 38th AAAI Conference on Artificial Intelligence]</em>, [2024] </div>
-                       <div class="periodical"> </div>
-                       <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
-                           <a href="[https://ojs.aaai.org/index.php/AAAI/article/view/29165]"
-                               class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
-                               target="_blank">HTML</a> </div>
-                   </div>
+---
+title: "C² KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation"
+collection: publications
+permalink: /publication/cvpr24
+excerpt: 'In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024'
+date: 2024-01-01
+venue: 'CVPR'
+paperurl: 'http://example.com/abs'
+citation: 'Fushuo Huo, Wenchao Xu, Jingcai Guo, and 2 more authors, "C² KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation," In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024'
+---
+**C² KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**  
+Fushuo Huo, Wenchao Xu, Jingcai Guo, and 2 more authors  
+*In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024*
+
+[ABS](http://example.com/abs) [HTML](http://example.com/html)
 
 
 - [Non-exemplar Online Class-Incremental Continual Learning via Dual-Prototype Self-Augment and Refinement](https://ojs.aaai.org/index.php/AAAI/article/view/29165), <br> Fushuo Huo, Wenchao Xu, Jingcai Guo, Haozhao Wang, **Yunfeng Fan**, <br> Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI '24, CCF-A**)
