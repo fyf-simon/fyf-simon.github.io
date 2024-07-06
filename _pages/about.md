@@ -45,24 +45,38 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 [//]: </div>
 [//]: </div>
 
----
-title: "C² KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation"
-collection: publications
-permalink: /publication/cvpr24
-excerpt: 'In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024'
-date: 2024-01-01
-venue: 'CVPR'
-paperurl: 'http://example.com/abs'
-citation: 'Fushuo Huo, Wenchao Xu, Jingcai Guo, and 2 more authors, "C² KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation," In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024'
----
-**C² KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation**  
-Fushuo Huo, Wenchao Xu, Jingcai Guo, and 2 more authors  
-*In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024*
+### Conference Papers
 
-[ABS](http://example.com/abs) [HTML](http://example.com/html)
+- [Non-exemplar Online Class-Incremental Continual Learning via Dual-Prototype Self-Augment and Refinement](https://ojs.aaai.org/index.php/AAAI/article/view/29165) <br>
+Fushuo Huo, Wenchao Xu, Jingcai Guo, Haozhao Wang, **Yunfeng Fan** <br>
+in Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI '24**), 2024. **CCF-A**
+
+- [Pmr: Prototypical modal rebalance for multimodal learning](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html) <br>
+**Yunfeng Fan**, Wenchao Xu, Haozhao Wang, Junxiao Wang, Song Guo <br>
+in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR '23**), 2023. **CCF-A**
+
+- [AOCC-FL: Federated Learning with Aligned Overlapping via Calibrated Compensation](https://ieeexplore.ieee.org/abstract/document/10229011) <br>
+Haozhao Wang, Wenchao Xu, **Yunfeng Fan**, Ruixuan Li, Pan Zhou <br>
+in IEEE INFOCOM 2023-IEEE Conference on Computer Communications (**INFOCOM '23**), 2023. **CCF-A**
+
+- [Learning to solve pod retrieval as sequential decision making problem](https://ieeexplore.ieee.org/abstract/document/9831817/) <br>
+**Yunfeng Fan**, Fang Deng, Xiang Shi, Jing Yang <br>
+in IEEE 17th International Conference on Control & Automation (**ICCA '22**), 2022.
+
+- [Multi-robot task allocation and path planning system design](https://ieeexplore.ieee.org/abstract/document/9188762) <br>
+**Yunfeng Fan**, Fang Deng, Xiang Shi <br>
+in 39th Chinese Control Conference (**CCC '20**), 2020.
 
 
-- [Non-exemplar Online Class-Incremental Continual Learning via Dual-Prototype Self-Augment and Refinement](https://ojs.aaai.org/index.php/AAAI/article/view/29165), <br> Fushuo Huo, Wenchao Xu, Jingcai Guo, Haozhao Wang, **Yunfeng Fan**, <br> Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI '24, CCF-A**)
+### Journal Papers
+
+- [A bi-level optimization approach for joint rack sequencing and storage assignment in robotic mobile fulfillment systems](https://link.springer.com/article/10.1007/s11432-022-3714-4) <br>
+Xiang Shi, Fang Deng, Sai Lu, **Yunfeng Fan**, Lin Ma, Jie Chen <br>
+in Science China Information Sciences, 2023. **CCF-A, JCR-Q1**
+
+- [A two-stage hybrid heuristic algorithm for simultaneous order and rack assignment problems](https://ieeexplore.ieee.org/abstract/document/9509255/) <br>
+Xiang Shi, Fang Deng, **Yunfeng Fan**, Lin Ma, Yong Wang, Jie Chen <br>
+in IEEE Transactions on Automation Science and Engineering, 2023. **CCF-B, JCR-Q1**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
