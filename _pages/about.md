@@ -28,7 +28,9 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV, thanks to all co-authors! 
+- *2024.07*: &nbsp;🎉🎉 One paper accepted by ACM MM, thanks to all co-authors! 
+- *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV, thanks to all co-authors!
+
 
 
 # 📝 Publications 
