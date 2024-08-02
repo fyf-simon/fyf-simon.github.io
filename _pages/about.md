@@ -48,6 +48,10 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 [//]: </div>
 
 ### Conference Papers
+- [Detached and Interactive Multimodal Learning]() <br>
+**Yunfeng Fan**, Wenchao Xu, Haozhao Wang, Junhong Liu, and Song Guo <br>
+in ACM MULTIMEDIA (**MM '24**), 2024. **CCF-A**
+
 - [Overcome Modal Bias in Multi-modal Federated Learning via Balanced Modality Selection]() <br>
 **Yunfeng Fan**, Wenchao Xu, Haozhao Wang, Fushuo Huo, Jinyu Chen, and Song Guo <br>
 in The 18th European Conference on Computer Vision (**ECCV '24**), 2024. **CCF-B**
