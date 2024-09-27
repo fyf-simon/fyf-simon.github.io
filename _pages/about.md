@@ -28,6 +28,7 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS, thanks to all co-authors! 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ACM MM, thanks to all co-authors! 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV, thanks to all co-authors!
 
@@ -48,6 +49,10 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 [//]: </div>
 
 ### Conference Papers
+- [Cross-modal Representation Flattening for Multi-modal Domain Generalization]() <br>
+**Yunfeng Fan**, Wenchao Xu, Haozhao Wang, Song Guo <br>
+in The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS '24**), 2024. **CCF-A**
+
 - [Detached and Interactive Multimodal Learning]() <br>
 **Yunfeng Fan**, Wenchao Xu, Haozhao Wang, Junhong Liu, and Song Guo <br>
 in The 32nd ACM International Conference on Multimedia (**MM '24**), 2024. **CCF-A**
