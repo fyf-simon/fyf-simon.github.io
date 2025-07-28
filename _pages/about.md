@@ -28,6 +28,7 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper accepted by IEEE Communications Surveys and Tutorials, thanks to all co-authors! 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS, thanks to all co-authors! 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ACM MM, thanks to all co-authors! 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV, thanks to all co-authors!
@@ -83,6 +84,10 @@ in 39th Chinese Control Conference (**CCC '20**), 2020.
 
 
 ### Journal Papers
+
+- [Deploying foundation model powered agent services: A survey](https://arxiv.org/abs/2412.13437) <br>
+Wenchao Xu, Jinyu Chen, et al., **Yunfeng Fan**, Qinliang Su, Xuemin Shen <br>
+in Science China Information Sciences, 2023. **SCI-1**
 
 - [A bi-level optimization approach for joint rack sequencing and storage assignment in robotic mobile fulfillment systems](https://link.springer.com/article/10.1007/s11432-022-3714-4) <br>
 Xiang Shi, Fang Deng, Sai Lu, **Yunfeng Fan**, Lin Ma, Jie Chen <br>
