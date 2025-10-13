@@ -85,6 +85,10 @@ in 39th Chinese Control Conference (**CCC '20**), 2020.
 
 ### Journal Papers
 
+- [Fast Multimodal Edge Inference via Selective Feature Distillation](https://ieeexplore.ieee.org/abstract/document/11048701) <br>
+Jinyu Chen, Wenchao Xu, **Yunfeng Fan**, Haozhao Wang, Quan Chen, Jing Li <br>
+in IEEE Transactions on Mobile Computing, 2025. **CCF-A**
+
 - [Deploying foundation model powered agent services: A survey](https://arxiv.org/abs/2412.13437) <br>
 Wenchao Xu, Jinyu Chen, et al., **Yunfeng Fan**, Qinliang Su, Xuemin Shen <br>
 in IEEE Communications Surveys and Tutorials, 2025. **SCI-1**
