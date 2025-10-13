@@ -29,6 +29,7 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by IEEE Communications Surveys and Tutorials, thanks to all co-authors! 
+- *2025.06*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Mobile Computing, thanks to all co-authors! 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS, thanks to all co-authors! 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ACM MM, thanks to all co-authors! 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV, thanks to all co-authors!
