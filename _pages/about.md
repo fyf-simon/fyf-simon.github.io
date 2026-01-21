@@ -28,6 +28,7 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper accepted by the Web Conference 2026, thanks to all co-authors! 
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by IEEE Communications Surveys and Tutorials, thanks to all co-authors! 
 - *2025.06*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Mobile Computing, thanks to all co-authors! 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS, thanks to all co-authors! 
@@ -51,6 +52,10 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 [//]: </div>
 
 ### Conference Papers
+- [pFedDKS: Detached Knowledge Sharing for Personalized Federated Learning]() <br>
+Haozhao Wang, Wenchao Xu, Jingzhi Wang, **Yunfeng Fan**, Xiaoquan Yi and Rui Zhang <br>
+in The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS '24**), 2024. **CCF-A**
+
 - [Cross-modal Representation Flattening for Multi-modal Domain Generalization]() <br>
 **Yunfeng Fan**, Wenchao Xu, Haozhao Wang, Song Guo <br>
 in The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS '24**), 2024. **CCF-A**
