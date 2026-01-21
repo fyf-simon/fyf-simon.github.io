@@ -54,7 +54,7 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 ### Conference Papers
 - [pFedDKS: Detached Knowledge Sharing for Personalized Federated Learning]() <br>
 Haozhao Wang, Wenchao Xu, Jingzhi Wang, **Yunfeng Fan**, Xiaoquan Yi and Rui Zhang <br>
-in The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS '24**), 2024. **CCF-A**
+in The Web Conference (**WWW '26**), 2026. **CCF-A**
 
 - [Cross-modal Representation Flattening for Multi-modal Domain Generalization]() <br>
 **Yunfeng Fan**, Wenchao Xu, Haozhao Wang, Song Guo <br>
