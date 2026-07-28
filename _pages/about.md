@@ -28,14 +28,13 @@ I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, 
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One paper accepted by Artificial Intelligence Review, thanks to all co-authors! 
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by the Web Conference 2026, thanks to all co-authors! 
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by IEEE Communications Surveys and Tutorials, thanks to all co-authors! 
 - *2025.06*: &nbsp;🎉🎉 One paper accepted by IEEE Transactions on Mobile Computing, thanks to all co-authors! 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS, thanks to all co-authors! 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ACM MM, thanks to all co-authors! 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV, thanks to all co-authors!
-
-
 
 # 📝 Publications 
 
@@ -90,6 +89,10 @@ in 39th Chinese Control Conference (**CCC '20**), 2020.
 
 
 ### Journal Papers
+
+- [Generative anomaly detection: a comprehensive review of modeling principles, advances, and future opportunities](https://link.springer.com/content/pdf/10.1007/s10462-026-11591-w_reference.pdf) <br>
+Jiaqi Zhu, **Yunfeng Fan**, Geng Han, Xiang Shi, Fang Deng, Jie Chen <br>
+in Artificial Intelligence Review, 2026. **SCI-1, JCR-Q1**
 
 - [Fast Multimodal Edge Inference via Selective Feature Distillation](https://ieeexplore.ieee.org/abstract/document/11048701) <br>
 Jinyu Chen, Wenchao Xu, **Yunfeng Fan**, Haozhao Wang, Quan Chen, Jing Li <br>
