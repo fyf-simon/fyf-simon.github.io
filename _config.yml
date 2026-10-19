@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunfeng Fan"
-description              : "PhD at the Hong Kong Polytechnic University"
+description              : "Assistant Researcher at Peng Cheng Laboratory"
 repository               : "fyf-simon/fyf-simon.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yunfeng Fan"
   avatar           : "images/fyf.png"
   bio              : ""
-  location         : "Hung Hom, Hong Kong"
+  location         : "Shen Zhen, Guang Dong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=6usJ0SgAAAAJ" #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
