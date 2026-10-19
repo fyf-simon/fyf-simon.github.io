@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year PhD in Department of Computing, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes **multi-modal learning**, **Federated learning**, and **MLLM**. I am very fortunate to be advised by [Dr. Wenchao Xu](https://huasion23.github.io/) and [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo). 
+I am currently an Assistant Researcher in [Peng Cheng Laboratory](https://www.pcl.ac.cn/html/911/). My research interest includes **multi-modal learning**, **MLLM**, and **Spatial Intelligence**. I received my PhD degree in Department of Computing, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), and was very fortunate to be advised by [Prof. Wenchao Xu](https://huasion23.github.io/) and [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo). 
 
 I received B.E. and M.E. degrees from Beijing Institute of Technology, Beijing, China, supervised by [Prof. Fang Deng](https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm).
 
